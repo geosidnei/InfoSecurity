@@ -10,7 +10,5 @@
 
 ## Projeto 5.4 - Verificador de IP Externo
 
-## ![verifyIPprotegido]
-##(https://github.com/geosidnei/InfoSecurity/blob/main/verifyIPprotegido.png)
-
+## ![verifyIPprotegido](https://github.com/geosidnei/InfoSecurity/blob/main/verifyIPprotegido.png)
 
